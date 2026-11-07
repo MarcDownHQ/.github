@@ -4,7 +4,7 @@
 | --- | --- |
 | [Nostragoalus](https://github.com/MarcDownHQ/Nostragoalus) | Predict football scores, earn points for how close you get, and out-foresee your friends |
 | [Lumen](https://github.com/MarcDownHQ/Lumen) | An Apple TV style home screen for Android TV and Google TV, with reversible debloat scripts |
-| [Nightglass](https://github.com/MarcDownHQ/nightglass) | An IPTV player |
+| [Nightglass](https://github.com/MarcDownHQ/nightglass) | A native IPTV player for macOS, with a Windows version |
 | [Rocket Vibe](https://github.com/MarcDownHQ/rocket-vibe) | A Rocket.Chat client |
 
 Found a bug or have an idea? Open an issue on the project it concerns.
