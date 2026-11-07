@@ -1,0 +1,34 @@
+name: Bug report
+description: Something does not work as it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we reproduce it?
+      placeholder: |
+        1. Go to ...
+        2. Click ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The version you are running, if you know it.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Device, browser or OS
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Remove anything private first.
